@@ -1,2 +1,2 @@
-# delhi-may19-batch-Trapti04
-delhi-may19-batch-Trapti04 created by GitHub Classroom
+# Project files for Statistical learning, machine learning , CNN and sequential modelling concepts
+-- To do - detailed documentation
